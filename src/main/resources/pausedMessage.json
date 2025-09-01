@@ -1,0 +1,9 @@
+{
+  "version": "2",
+  "type": "paused",
+  "seq": 12,
+  "serverseq": 5,
+  "id": "abc123-uuid-session-id",
+  "position": "PT123.456S",
+  "parameters": { }
+}

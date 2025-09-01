@@ -1,0 +1,12 @@
+{
+  "version": "2",
+  "type": "resumed",
+  "seq": 15,
+  "serverseq": 7,
+  "id": "abc123-uuid-session-id",
+  "position": "PT140.2S",
+  "parameters": {
+    "start": "PT132.0S",
+    "discarded": "PT8.2S"
+  }
+}

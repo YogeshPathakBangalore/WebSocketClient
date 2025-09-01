@@ -1,0 +1,9 @@
+{
+  "version": "2",
+  "type": "resume",
+  "seq": 7,
+  "clientseq": 12,
+  "serverseq": 12,
+  "id": "abc123-uuid-session-id",
+  "parameters": { }
+}

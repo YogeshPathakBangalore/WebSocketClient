@@ -1,0 +1,43 @@
+{
+  "version": "2",
+  "type": "open",
+  "seq": 1,
+  "serverseq": 0,
+  "id": "e160e428-53e2-487c-977d-96989bf5c99d",
+  "position": "PT0S",
+  "parameters": {
+    "organizationId": "d7934305-0972-4844-938e-9060eef73d05",
+    "conversationId": "090eaa2f-72fa-480a-83e0-8667ff89c0ec",
+    "participant": {
+      "id": "883efee8-3d6c-4537-b500-6d7ca4b92fa0",
+      "ani": "+1-555-555-1234",
+      "aniName": "John Doe",
+      "dnis": "+1-800-555-6789"
+    },
+    "supportedLanguages": true,
+    "media": [
+      {
+        "type": "audio",
+        "format": "PCMU",
+        "channels": ["external", "internal"],
+        "rate": 8000
+      },
+      {
+        "type": "audio",
+        "format": "PCMU",
+        "channels": ["external"],
+        "rate": 8000
+      },
+      {
+        "type": "audio",
+        "format": "PCMU",
+        "channels": ["internal"],
+        "rate": 8000
+      }
+    ],
+    "language": "en-US",
+    "inputVariables": {
+        "key1": "value1"
+    }
+  }
+}

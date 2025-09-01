@@ -1,0 +1,9 @@
+{
+  "version": "2",
+  "type": "ping",
+  "seq": 2,
+  "serverseq": 1,
+  "id": "c198f14a-50fe-45df-a0c1-4955b701464d",
+  "position": "PT4.2S",
+  "parameters": { }
+}

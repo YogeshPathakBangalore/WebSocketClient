@@ -1,0 +1,11 @@
+{
+  "version": "2",
+  "type": "close",
+  "seq": 15,
+  "serverseq": 33,
+  "id": "e160e428-53e2-487c-977d-96989bf5c99d",
+  "position": "PT57.8S",
+  "parameters": {
+    "reason": "end"
+  }
+}
